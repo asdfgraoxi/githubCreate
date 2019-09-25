@@ -13,3 +13,5 @@
 >>>>>>> Stashed changes
 测试diff --staged
 现在测试开始
+现在测试amend，现在是第一次提交
+现在是提交后，再修改，然后进行amend提交
